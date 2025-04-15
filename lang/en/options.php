@@ -1,0 +1,5 @@
+<?php
+$MESS['FOSREVIEWS_ACCESS_TAB'] = 'Access';
+$MESS['FOSREVIEWS_ACCESS_TAB_TITLE'] = 'Module Access Level';
+$MESS['FOSREVIEWS_SAVE_BTN'] = 'Apply';
+$MESS['FOSREVIEWS_RESET_BTN'] = 'Default';

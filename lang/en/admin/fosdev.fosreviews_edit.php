@@ -1,0 +1,15 @@
+<?php
+$MESS['REVIEWS_EDIT_TAB'] = 'Review';
+$MESS['REVIEWS_EDIT_TAB_TITLE'] = 'Review';
+$MESS['REVIEWS_EDIT_TITLE'] = 'Review #ID#: Editing';
+$MESS['REVIEWS_ADD_TITLE'] = 'Review: Add';
+$MESS['FOS_REVIEWS_ID'] = 'ID';
+$MESS['FOS_REVIEWS_PUBLICATION_DATE'] = 'Created';
+$MESS['FOS_REVIEWS_ACTIVE'] = 'Activity';
+$MESS['FOS_REVIEWS_USER_ID'] = 'User';
+$MESS['FOS_REVIEWS_PRODUCT_ID'] = 'Element Binding';
+$MESS['FOS_REVIEWS_EDIT_COMMENT'] = 'Review';
+$MESS['FOS_REVIEWS_LIKES'] = 'Number of Likes';
+$MESS['FOS_REVIEWS_DISLIKES'] = 'Number of Dislikes';
+$MESS['FOS_REVIEWS_EDIT_RATING'] = 'Rating';
+$MESS['FOS_REVIEWS_PHOTO'] = 'Photo';
